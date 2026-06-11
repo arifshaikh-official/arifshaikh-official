@@ -1,68 +1,86 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,29&text=Arif%20Shaikh&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Next.js&descSize=20&descAlignY=58&textBg=false" width="100%" />
+![Profile Views](https://komarev.com/ghpvc/?username=arifshaikh-official&label=Profile+views&color=0e75b6&style=flat)
 
 </div>
 
 ---
 
-<table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
-## 👨‍💻 About Me
+<h1>I'm Arif Shaikh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 
-I'm **Arif Shaikh**, a dedicated **Full Stack Developer** specializing in the **MERN stack** and **Next.js**.
-
-I focus on building **scalable**, **responsive**, and **user‑friendly** applications with clean architecture and optimized performance.
-
-Currently working on **Talent Grid (Job Portal)** and enhancing my portfolio with **MongoDB, MySQL (Prisma), SEO, and Redux**.
+**Full Stack Developer** specializing in **MERN Stack** and **Next.js**, from Maharashtra, India.  
+Passionate about building scalable, responsive, and user-friendly applications with clean architecture and optimized performance.
 
 ---
 
-### 💡 What I Do
+### | What I Do ?
 
-- 🚀 Build full-stack web apps with the **MERN stack** and **Next.js**
-- 🎨 Craft clean, responsive UIs using **Tailwind CSS** and **Bootstrap**
+- 🚀 Build full-stack web apps with **MERN Stack** & **Next.js**
+- 🎨 Craft clean, responsive UIs with **Tailwind CSS** & **Bootstrap**
 - 🔧 Design RESTful APIs and integrate databases efficiently
 - 📦 Ship production-ready projects with **Git**, **Vite**, and **Postman**
 
 ---
 
-### 🛠️ Tech Stack
+### | Tech Stack
 
-**Languages:** JavaScript · TypeScript · Python · C++
+**Frontend:** React, Next.js, HTML5, CSS3, Tailwind, Bootstrap
 
-**Frontend:** React · Next.js · HTML5 · CSS3 · Tailwind · Bootstrap
+**Backend:** Node.js, Express.js
 
-**Backend:** Node.js · Express.js
+**Databases:** MongoDB, MySQL (Prisma)
 
-**Databases:** MongoDB · MySQL (Prisma)
+**Languages:** JavaScript, TypeScript, Python, C++
 
-**Tools:** Git · VS Code · Postman · Vite
+**Tools:** Git, VS Code, Postman, Vite
 
 ---
 
-### 🔗 Connect with Me
+### | GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arifshaikh-official)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arifshaikh-official)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifshaikhofficial04@gmail.com)
+<p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arifshaikh-official&show_icons=true&theme=dark&border_radius=10&hide_border=true&cache_seconds=7200&include_all_commits=true&count_private=true" width="100%" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com/?user=arifshaikh-official&theme=dark&hide_border=true&cache_seconds=86400" width="100%" />
+</p>
+
+---
+
+### | Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arifshaikh-official)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arifshaikh-official)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifshaikhofficial04@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://arifshaikh.dev)
+
+---
+
+### | Support
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/arifshaikh)
 
 </td>
-<td width="42%" valign="top" align="center">
+<td width="45%" valign="top" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=6,11,20,29&text=Arif%20Shaikh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Full%20Stack%20Developer&descSize=16&descAlignY=68&textBg=false" width="100%" />
 
 <br/>
 
-<img src="https://i.pinimg.com/originals/31/79/3b/31793bea5b0655dd21447c8981c81b08.gif" alt="Coding GIF" width="95%" style="border-radius: 12px;" />
+<img src="https://i.pinimg.com/originals/31/79/3b/31793bea5b0655dd21447c8981c81b08.gif" width="100%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arifshaikh-official&show_icons=true&theme=dark&border_radius=10&hide_border=true&cache_seconds=7200&include_all_commits=true&count_private=true" width="100%" />
+<img src="https://trophy.ryglcloud.net/?username=arifshaikh-official&theme=dark&no-frame=true&no-bg=true&margin-w=4&column=3&cache_seconds=86400" width="100%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=arifshaikh-official&theme=dark&hide_border=true&cache_seconds=86400" width="100%" />
+<img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" width="100%" />
 
 </td>
 </tr>
@@ -70,43 +88,10 @@ Currently working on **Talent Grid (Job Portal)** and enhancing my portfolio wit
 
 ---
 
-## 📊 GitHub Trophies
-
 <div align="center">
 
-<img src="https://trophy.ryglcloud.net/?username=arifshaikh-official&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" />
+⭐ *Always learning. Always building.*
 
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🧠 **Talent Grid** | Full-featured Job Portal with role-based auth, listings, and applications | Next.js · MongoDB · Prisma · Redux |
-| 📱 **Mini Social Post App** | Social post feed with create/read/delete, deployed on Vercel + Render | React · Node.js · Express · MongoDB |
-| 💪 **Fitness House Gym** | Premium single-page business site with animations and responsive design | HTML · CSS · JavaScript |
-| 🌐 **Portfolio** | Personal developer portfolio with smooth transitions and modern UI | React · Tailwind · Framer Motion |
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Contribution Graph" width="80%" />
-
-<br/><br/>
-
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=arifshaikh-official&label=Profile+Views&color=0e75b6&style=flat)
-
-<br/>
-
-> *"Always learning. Always building."* ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20,29&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&customColorList=6,11,20,29&section=footer" width="100%" />
 
 </div>
