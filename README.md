@@ -40,7 +40,7 @@ I focus on building scalable, responsive, and user‑friendly web-application wi
 > ### Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/chamidu-dilshan-082b43274/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/></a>
+  <a href="https://www.linkedin.com/in/arifshaikh04/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/></a>
   <a href="https://github.com/arifshaikh-official"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="40"/></a>
   <a href="mailto:arifshaikhofficial04@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/></a>
   <a href="https://portfolio-peach-six-69.vercel.app"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40"/></a>
