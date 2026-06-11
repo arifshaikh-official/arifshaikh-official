@@ -1,8 +1,8 @@
 <table>
   <td>
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=chamidu0423">
-    <img src="https://komarev.com/ghpvc/?username=chamidu0423&label=Profile%20views&color=00FFFF&style=flat-square" alt="chamidu0423's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=arifshaikh-official">
+    <img src="https://komarev.com/ghpvc/?username=arifshaikh-official&label=Profile%20views&color=00FFFF&style=flat-square" alt="chamidu0423's profile views" />
   </a>
 </p>
   </td>
@@ -11,45 +11,37 @@
   <tr>
     <td valign="top" width="60%">
 
-# I'm **Chamidu Dilshan** <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px">
+# I'm **Arif Shaikh** <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px">
 
-**Software Engineering Undergraduate** from **Sri Lanka**
-Passionate about crafting seamless digital experiences and exploring modern tech trends.
+A dedicated **Full Stack Developer** specializing in the **MERN stack**.  
+I focus on building scalable, responsive, and user‑friendly web-application with clean architecture and optimized performance. 
 
 > ### What I Do ?
 
-* Build responsive web and mobile apps with clean UI/UX.
+* Build responsive website clean UI/UX.
 * Work across the stack using modern tools and frameworks.
 * Learn, create, and share ideas that inspire innovation.
 
 > ### Tech Stack
 
-**Frontend:** React, Vue, Next.js, Tailwind CSS, Vite
+**Frontend:** React, Tailwind CSS, HTML5, CSS3, Bootstrap 5
 
 **Backend:** Node.js, Express.js
 
-**Databases:** MySQL, MongoDB, SQLite
+**Databases:** MySQL, MongoDB
 
-**Languages:** JavaScript, TypeScript, Python, Java, C++, PHP
+**Languages:** JavaScript, Python, C++
 
-**Tools:** Docker, Figma, Postman, Git, VS Code
+**Tools:** Postman, Git, VS Code
 
 
 > ### Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/chamidu-dilshan-082b43274/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/></a>
-  <a href="https://x.com/Chamidu0423"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="40"/></a>
-  <a href="https://github.com/Chamidu0423"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="40"/></a>
-  <a href="https://www.youtube.com/@NALGEON"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" width="40"/></a>
-  <a href="mailto:chamidudilshan0423@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/></a>
-  <a href="https://chamidu-dilshaninfo.web.app/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40"/></a>
-</p>
-
-> ### Support
-
-<p align="left">
-<a href="https://github.com/sponsors/Chamidu0423" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+  <a href="https://github.com/arifshaikh-officail"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="40"/></a>
+  <a href="mailto:arifshaikhofficial04@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/></a>
+  <a href="https://portfolio-peach-six-69.vercel.app"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40"/></a>
 </p>
 
 ---
