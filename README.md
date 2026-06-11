@@ -1,97 +1,68 @@
-<div align="center">
+<table>
+  <td>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=chamidu0423">
+    <img src="https://komarev.com/ghpvc/?username=chamidu0423&label=Profile%20views&color=00FFFF&style=flat-square" alt="chamidu0423's profile views" />
+  </a>
+</p>
+  </td>
+</table>
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
-![Profile Views](https://komarev.com/ghpvc/?username=arifshaikh-official&label=Profile+views&color=0e75b6&style=flat)
+# I'm **Chamidu Dilshan** <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px">
 
-</div>
+**Software Engineering Undergraduate** from **Sri Lanka**
+Passionate about crafting seamless digital experiences and exploring modern tech trends.
 
----
+> ### What I Do ?
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="55%" valign="top">
+* Build responsive web and mobile apps with clean UI/UX.
+* Work across the stack using modern tools and frameworks.
+* Learn, create, and share ideas that inspire innovation.
 
-<h1>I'm Arif Shaikh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
+> ### Tech Stack
 
-**Full Stack Developer** specializing in **MERN Stack** and **Next.js**, from Maharashtra, India.  
-Passionate about building scalable, responsive, and user-friendly applications with clean architecture and optimized performance.
-
----
-
-### | What I Do ?
-
-- 🚀 Build full-stack web apps with **MERN Stack** & **Next.js**
-- 🎨 Craft clean, responsive UIs with **Tailwind CSS** & **Bootstrap**
-- 🔧 Design RESTful APIs and integrate databases efficiently
-- 📦 Ship production-ready projects with **Git**, **Vite**, and **Postman**
-
----
-
-### | Tech Stack
-
-**Frontend:** React, Next.js, HTML5, CSS3, Tailwind, Bootstrap
+**Frontend:** React, Vue, Next.js, Tailwind CSS, Vite
 
 **Backend:** Node.js, Express.js
 
-**Databases:** MongoDB, MySQL (Prisma)
+**Databases:** MySQL, MongoDB, SQLite
 
-**Languages:** JavaScript, TypeScript, Python, C++
+**Languages:** JavaScript, TypeScript, Python, Java, C++, PHP
 
-**Tools:** Git, VS Code, Postman, Vite
+**Tools:** Docker, Figma, Postman, Git, VS Code
 
----
 
-### | GitHub Stats
+> ### Connect with Me
 
-<p>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arifshaikh-official&show_icons=true&theme=dark&border_radius=10&hide_border=true&cache_seconds=7200&include_all_commits=true&count_private=true" width="100%" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/chamidu-dilshan-082b43274/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/></a>
+  <a href="https://x.com/Chamidu0423"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="40"/></a>
+  <a href="https://github.com/Chamidu0423"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="40"/></a>
+  <a href="https://www.youtube.com/@NALGEON"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" width="40"/></a>
+  <a href="mailto:chamidudilshan0423@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/></a>
+  <a href="https://chamidu-dilshaninfo.web.app/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40"/></a>
 </p>
-<p>
-  <img src="https://streak-stats.demolab.com/?user=arifshaikh-official&theme=dark&hide_border=true&cache_seconds=86400" width="100%" />
+
+> ### Support
+
+<p align="left">
+<a href="https://github.com/sponsors/Chamidu0423" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </p>
 
 ---
 
-### | Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arifshaikh-official)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arifshaikh-official)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifshaikhofficial04@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://arifshaikh.dev)
+⭐ *Always learning. Always building.* 
 
 ---
-
-### | Support
-
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/arifshaikh)
 
 </td>
-<td width="45%" valign="top" align="center">
+<td align="center" width="40%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=6,11,20,29&text=Arif%20Shaikh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Full%20Stack%20Developer&descSize=16&descAlignY=68&textBg=false" width="100%" />
-
-<br/>
-
-<img src="https://i.pinimg.com/originals/31/79/3b/31793bea5b0655dd21447c8981c81b08.gif" width="100%" />
-
-<br/><br/>
-
-<img src="https://trophy.ryglcloud.net/?username=arifshaikh-official&theme=dark&no-frame=true&no-bg=true&margin-w=4&column=3&cache_seconds=86400" width="100%" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" width="100%" />
+<img src="https://github.com/user-attachments/assets/1287993c-d369-409b-b43a-22c9fd2853f6" width="100%" style="border-radius: 16px;" alt="Profile Image"/>
 
 </td>
-</tr>
+  </tr>
 </table>
-
----
-
-<div align="center">
-
-⭐ *Always learning. Always building.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&customColorList=6,11,20,29&section=footer" width="100%" />
-
-</div>
